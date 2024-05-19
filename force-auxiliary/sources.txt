@@ -1,0 +1,4 @@
+https://huggingface.co/datasets/lksy/ru_instruct_gpt4
+https://huggingface.co/datasets/IlyaGusev/ru_turbo_alpaca
+https://huggingface.co/datasets/RussianNLP/russian_super_glue
+https://huggingface.co/datasets/IlyaGusev/gpt_roleplay_realm
